@@ -6,7 +6,7 @@
   "author"          : {
     "name"  : "Oliver Ochs",
     "email" : "oliver.ochs@holisticon.de",
-    "url"   : "http.//blog.holisticon.de"
+    "url"   : "http://blog.holisticon.de"
   },
   "devDependencies" : {
     "grunt-jasmine-runner" : "latest",
