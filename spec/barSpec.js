@@ -1,4 +1,4 @@
-describe("As a guest i want to order a drink from the barkeeper", function() {
+describe("In order to get a drink as a guest I want a barkeeper to mix it.", function() {
 	describe("The barkeeper", function(){
 		it("should return an ordered wodka lemon", function() {
 			var order = new Order();
