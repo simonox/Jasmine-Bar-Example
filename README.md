@@ -9,7 +9,7 @@ JsUnit ist inzwischen fast zehn Jahre alt. Sein größter Nachteil ist, dass es 
 
 [![](http://blog.holisticon.de/wp-content/uploads/2012/01/jasmine_logo.png "Jasmine Logo")](http://blog.holisticon.de/wp-content/uploads/2012/01/jasmine_logo.png)[Jasmine](http://pivotal.github.com/jasmine/ "Jasmine auf GitHub") hat keine Abhängigkeiten zum Webbrowser als Ablaufumgebung. Daher kann es nicht nur im Browser (z.B. in einer statischen Webseite als Testumgebung), sondern auch außerhalb, z.B. auf einem Continuous Integration-Server oder einer serverseitigen Laufzeitumgebung wie Node.js verwendet werden. Im folgenden Beispiel möchte ich aber der Einfachheit halber den Browser als Laufzeitumgebung verwenden.
 
-Bei Jasmine handelt es sich um ein BDD-Framework. Es bietet also nicht nur klassische Unit-Tests, sondern folgt den Paradigmen von "[Specification by Example](http://en.wikipedia.org/wiki/Behavior_Driven_Development "BDD in der Wikipedia")".<!--more-->
+Bei Jasmine handelt es sich um ein BDD-Framework. Es bietet also nicht nur klassische Unit-Tests, sondern folgt den Paradigmen von "[Specification by Example](http://en.wikipedia.org/wiki/Behavior_Driven_Development "BDD in der Wikipedia")".
 
 Um Jasmine zu verwenden, muss man es zunächst [herunterladen](http://pivotal.github.com/jasmine/download.html "Download-Link für Jasmine") und auspacken. Im Wurzel-Verzeichnis befindet sich ein HTML-Dokument „SpecRunner.html“. Dies ist ein einfaches HTML-Dokument, das man im Browser öffnen kann, um Jasmine-Tests im Browser durchführen zu lassen. In diesen Spec-Runner bindet man nun sowohl seine zu testenden Source-Dateien als auch Spec-Dateien ein.
 
