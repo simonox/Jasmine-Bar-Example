@@ -149,5 +149,3 @@ Wie bereits angemerkt, kann man Jasmine zum Testen von Node-Anwendungen, die nic
 Verteilte Tests mit Googles [JsTestDriver](http://code.google.com/p/js-test-driver "Google JsTestDriver") lassen sich auch mit Jasmine über einen [Adapter](https://github.com/ibolmo/jasmine-jstd-adapter "Jasmine JSTestDriver Adapter") ausführen.
 
 Jasmine ist nicht das einzige BDD-Framework für JavaScript. Zurzeit wird beispielsweise Cucumber, das De-Facto-Framework für BDD, hin zu JavaScript [portiert](https://github.com/cucumber/cucumber-js "CucumberJS").
-
-Dieser Blog-Beitrag soll nur einen ersten Eindruck von Jasmine vermitteln. Weitere Informationen über Jasmine findet man in einer zwar kurzen, aber dennoch gelungenen [Dokumentation](https://github.com/pivotal/jasmine/wiki "Jasmine Wiki").
